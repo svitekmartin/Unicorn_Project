@@ -61,15 +61,4 @@ A short, clear description of what your project does.
 
 ---
 
-## 📦 Installation
-
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/project-name.git
-
-# Navigate into the directory
-cd project-name
-
-# Install dependencies
-npm install  # or pip install -r requirements.txt
 
