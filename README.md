@@ -1,8 +1,5 @@
 # Unicorn_Project
 DA (Data Analytics) with SQL, Spreadsheets and Tableau
-🦄 Mini-Project: Unicorn Company
-“The goal is to turn data into information and information into insight.”
-— Carly Fiorina, Former CEO, Hewlett Packard
 
 💡 Motivation
 This project marks my first step into the world of data-driven decision-making. As part of my data analytics training program, the Unicorn Project gives me the opportunity to put theory into practice. Here, I’ll demonstrate my ability to analyze data and extract valuable insights that drive decisions.
